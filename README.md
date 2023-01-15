@@ -1,4 +1,4 @@
-# ![Ruby](ruby.png) Website Downloader
+# ![Ruby](/icon/ruby.png) Website Downloader
 ## How to use the script:
 
 [^1]: use the `bundle install` command to install the gems
