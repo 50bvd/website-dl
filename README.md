@@ -3,4 +3,5 @@
 1. use the `bundle install` command to install the needed gems.
 2. run the script with the command `ruby site-dl.rb`.
 3. enter the desired url.
+
 **_NOTE: The script has many bugs, this will be fixed_**
