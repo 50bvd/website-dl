@@ -1,2 +1,6 @@
-# website-dl
-This is a simple script in Ruby that allows you to upload a website with these assets
+# ![Ruby](ruby.png) Website Downloader
+## How to use the script:
+
+[^1]: use the `bundle install` command to install the gems
+[^2]: run the script with the command `ruby site-dl.rb`
+[^3]: enter the desired url 
