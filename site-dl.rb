@@ -25,4 +25,4 @@ end
 
 File.write("#{archive_name}/index.html", html)
 
-system("tar -cvzf #{archive_name}.tar.gz #{archive_name}")
+system("tar -cvzf #{archive_name}.tar.gz #{archive_name} && rm -r #{archive_name}")
